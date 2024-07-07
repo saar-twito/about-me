@@ -7,8 +7,6 @@ As CEO at [Looshes.com](https://looshes.com), I have successfully merged my tech
 
 I've developed an educational platform named [CodingWithSaar](https://www.codingwithsaar.co.il) which provides online courses in software development, covering topics like MongoDB, Node.js, and others. The resources and syllabus are regularly updated to ensure the most up-to-date information is available.
 
-![Profile Image](https://path-to-your-uploaded-image/image.png)
-
 ## Skills
 - HTML & CSS
 - JavaScript
